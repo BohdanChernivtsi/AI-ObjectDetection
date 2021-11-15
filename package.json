@@ -1,0 +1,20 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@andreekeberg/imagedata": "^1.0.2",
+    "@tensorflow/tfjs": "^3.8.0",
+    "@tensorflow/tfjs-node": "^3.8.0",
+    "canvas": "^2.8.0",
+    "get-image-data": "^5.0.0",
+    "youtube-search-without-api-key": "^1.0.6"
+  },
+  "type": "module"
+}
